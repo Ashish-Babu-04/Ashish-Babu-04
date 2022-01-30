@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish-Babu-04
-- 👀 I’m interested in security reseearching
+- 👀 I’m interested in bug hunting & security researching
 - 🌱 I’m currently learning bug hunting
 - 📫 How to reach me - Instagram - @ashish_babu_2218
 
